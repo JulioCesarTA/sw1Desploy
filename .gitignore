@@ -5,7 +5,6 @@ frontend/.angular/
 backend/target/
 backend/uploads/
 backend/tmp_report_inspect/
-backend/.env
 backend/*.token
 
 backend/IA/__pycache__/
